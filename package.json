@@ -1,17 +1,17 @@
 {
-  "name": "bower-registry-client",
-  "version": "0.1.6",
+  "name": "tbower-registry-client",
+  "version": "0.0.1",
   "description": "Provides easy interaction with the Bower registry.",
-  "author": "Twitter",
+  "author": "Qiaofu",
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/bower/registry-client/blob/master/LICENSE"
+      "url": "https://github.com/amdgigabyte/registry-client/blob/master/LICENSE"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/bower/registry-client.git"
+    "url": "git://github.com/amdgigabyte/registry-client.git"
   },
   "main": "Client",
   "engines": {
