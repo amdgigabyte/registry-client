@@ -1,6 +1,6 @@
 {
   "name": "tbower-registry-client",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Provides easy interaction with the Bower registry.",
   "author": "Qiaofu",
   "licenses": [
@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "async": "~0.2.8",
-    "bower-config": "~0.4.3",
+    "tbower-config": "~0.0.1",
     "graceful-fs": "~2.0.0",
     "lru-cache": "~2.3.0",
     "request": "~2.27.0",

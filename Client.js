@@ -1,5 +1,5 @@
 var async = require('async');
-var Config = require('bower-config');
+var Config = require('tbower-config');
 var methods = require('./lib');
 var Cache = require('./lib/util/Cache');
 
